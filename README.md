@@ -1,1 +1,2 @@
 # DSD_Lab_Spring
+This is the first Read me file that i have created in order to enhance my learning by the use of softwares like GitHub. we will be using GitHub in the subject of DIGITAL System Designs, here we will be able to access the material that is provide by our teacher, after taking idea from the provided material we will be able to do exercise tasks on our own.In DSD subject we wil be using NEXYS4 DDR that will be programmed using vivado.
